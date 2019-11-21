@@ -1,0 +1,29 @@
+h1 {
+    color: mediumblue;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xxx-large;
+}
+h2 {
+    color: mediumblue;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    
+}
+p {
+    color: mediumblue;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-small;
+}
+li {
+    font-size: 20px;
+    }
+body {
+    background-color: darkgrey;
+}
+img {
+    height: 400px;
+    width: 441px;
+}
